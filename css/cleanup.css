@@ -20,3 +20,6 @@
 div#wall div:nth-child(6) {
   display:none;
 }
+#wall div:nth-child(7) {
+  display:none;
+}
